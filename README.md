@@ -113,8 +113,11 @@ Investigate unusual resource usage and document findings.
 | Check | Status |
 |---|---|
 | Windows Update | Verified — Windows Update reports "You're up to date" |
-Windows Update Screenshot
+| Windows Update Screenshot | ![Windows Update](IMG_1218.jpeg) |
 
+### Windows Update Screenshot
+
+![Windows Update Verification](IMG_1218.jpeg)
 
 | Application Updates | Pending verification |
 | Antivirus Protection | Pending verification |

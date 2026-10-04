@@ -116,7 +116,7 @@ Investigate unusual resource usage and document findings.
 | Windows Update Screenshot | ![Windows Update](IMG_1218.jpeg) |
 | Application Updates |![Microsoft Word Example](IMG_1219.jpeg)|
 | Browser Updates | ![Microsoft Edge](IMG_1223.png) |
-| OneDrive Synchronization | Pending verification |
+| OneDrive Synchronization | ![OneDrive Synchronization ](IMG_1230.png) |
 | Disk Space | Pending verification |
 | Performance Review | Pending verification |
 | Intune Compliance | Pending verification |

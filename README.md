@@ -114,7 +114,7 @@ Investigate unusual resource usage and document findings.
 |---|---|
 | Windows Update | Verified — Windows Update reports "You're up to date" |
 | Windows Update Screenshot | ![Windows Update](IMG_1218.jpeg) |
-| Application Updates |![Microsoft Word Example]|
+| Application Updates |![Microsoft Word Example](IMG_1219.jpeg)|
 | Antivirus Protection | Pending verification |
 | Browser Updates | Pending verification |
 | OneDrive Synchronization | Pending verification |

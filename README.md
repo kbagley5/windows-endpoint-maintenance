@@ -112,7 +112,10 @@ Investigate unusual resource usage and document findings.
 
 | Check | Status |
 |---|---|
-| Windows Update | Pending verification |
+| Windows Update | Verified — Windows Update reports "You're up to date" |
+Windows Update Screenshot
+
+
 | Application Updates | Pending verification |
 | Antivirus Protection | Pending verification |
 | Browser Updates | Pending verification |

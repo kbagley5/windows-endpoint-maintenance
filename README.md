@@ -117,7 +117,7 @@ Investigate unusual resource usage and document findings.
 | Application Updates |![Microsoft Word Example](IMG_1219.jpeg)|
 | Browser Updates | ![Microsoft Edge](IMG_1223.png) |
 | OneDrive Synchronization | ![OneDrive Synchronization ](IMG_1230.png) |
-| Disk Space | Pending verification |
+| Disk Space | ![Disk Space](IMG_1234.png)|
 | Performance Review | Pending verification |
 | Intune Compliance | Pending verification |
 | Asset Assignment | Pending verification |

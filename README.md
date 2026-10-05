@@ -14,21 +14,17 @@ This portfolio project is based on common IT desktop support practices and uses 
 - Check and update business applications and web browsers.
 - Review installed applications and identify unnecessary software.
 - Verify applicable BIOS, firmware, and driver updates.
-- Confirm antivirus protection and security definition status.
 - Verify OneDrive synchronization.
 - Perform disk cleanup and check available storage.
 - Review CPU, memory, and disk utilization.
-- Verify endpoint compliance and IT asset assignment.
+- Verify endpoint compliance.
 
 ## Tools and Technologies
 
 - Windows 11
 - Windows Update
-- Microsoft 365
-- Microsoft Teams
+- Microsoft 365 (Words,Excel,Outlook,etc)
 - Microsoft Edge and Google Chrome
-- Adobe applications and Snagit
-- Endpoint antivirus software
 - Microsoft OneDrive
 - Microsoft Intune
 - Windows Task Manager
@@ -120,7 +116,7 @@ Investigate unusual resource usage and document findings.
 | Disk Space | ![Disk Space](IMG_1234.png)|
 | Task Manager | ![Task Manager](IMG_1231.png)|
 | Intune Compliance | ![Intune Compliance ](IMG_1232.jpeg)|
-| Dell Drivers | ![Dell Drivers](IMG_1226.png) |
+| Dell Firmware and Drivers | ![Dell Drivers](IMG_1226.png) |
 
 *These are sample documentation statuses, not claims that maintenance was completed on a particular device.*
 

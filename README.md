@@ -120,7 +120,7 @@ Investigate unusual resource usage and document findings.
 | Disk Space | ![Disk Space](IMG_1234.png)|
 | Task Manager | ![Task Manager](IMG_1231.png)|
 | Intune Compliance | Pending verification |
-| Asset Assignment | Pending verification |
+| Dell Drivers | ![Dell Drivers](IMG_1226.png) |
 
 *These are sample documentation statuses, not claims that maintenance was completed on a particular device.*
 

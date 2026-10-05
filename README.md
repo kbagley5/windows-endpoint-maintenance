@@ -119,7 +119,7 @@ Investigate unusual resource usage and document findings.
 | OneDrive Synchronization | ![OneDrive Synchronization ](IMG_1230.png) |
 | Disk Space | ![Disk Space](IMG_1234.png)|
 | Task Manager | ![Task Manager](IMG_1231.png)|
-| Intune Compliance | Pending verification |
+| Intune Compliance | ![Intune Compliance ](IMG_1226.png)|
 | Dell Drivers | ![Dell Drivers](IMG_1226.png) |
 
 *These are sample documentation statuses, not claims that maintenance was completed on a particular device.*

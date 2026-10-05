@@ -1,5 +1,5 @@
 # Windows-Endpoint-Maintenance
-Documenting Windows endpoint maintenance, software updates, antivirus checks, performance monitoring, OneDrive, and Intune compliance.
+Documenting Windows endpoint maintenance, software updates, performance monitoring, OneDrive, and Intune compliance.
 # Windows Endpoint Maintenance & Preventive Care
 
 ## Project Overview
